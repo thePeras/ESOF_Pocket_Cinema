@@ -3,11 +3,11 @@
 All the management of the project is done using this [Github Project board](https://github.com/orgs/FEUP-LEIC-ES-2022-23/projects/21) where all the issues are organized in Product backlog and Iteration backlog.
 
 # Releases
-- [v0](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC13T1/releases/tag/v0)
-- [v1](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC13T1/releases/tag/v1)
-- [v2](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC13T1/releases/tag/v2)
-- [v3](https://github.com/FEUP-LEIC-ES-2022-23/2LEIC13T1/releases/tag/v3)
-- v4
+- v0
+- [v1](https://github.com/thePeras/ESOF_Pocket_Cinema/releases/tag/v1)
+- [v2](https://github.com/thePeras/ESOF_Pocket_Cinema/releases/tag/v2)
+- [v3](https://github.com/thePeras/ESOF_Pocket_Cinema/releases/tag/v3)
+- [v4](https://github.com/thePeras/ESOF_Pocket_Cinema/releases/tag/v4)
 
 # Iteration planning and Retrospectives
 
